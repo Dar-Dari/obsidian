@@ -207,6 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "audio-recorder:آغاز/پایان ضبط صوت": false,
       "switcher:گشودن پرش سریع": false,
       "graph:گشودن نمای نمودار": false,
