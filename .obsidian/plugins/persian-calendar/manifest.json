@@ -1,0 +1,10 @@
+{
+	"id": "persian-calendar",
+	"name": "Persian Calendar",
+	"version": "4.9.0",
+	"minAppVersion": "1.13.1",
+	"description": "Persian/Jalali calendar integration featuring dynamic note paths, placeholders, API access, and event display.",
+	"author": "Hossein Maleknejad",
+	"authorUrl": "https://karfekr.ir",
+	"isDesktopOnly": false
+}

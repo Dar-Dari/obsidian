@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "29faa7959f34ad09",
+    "type": "split",
+    "children": [
+      {
+        "id": "095c87a3c068403c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be2c0a6f90c6a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1405/Shahrivar/روزانه/1405-06-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1405-06-21"
+            }
+          }
+        ]
+      },
+      {
+        "id": "43cdfce0d43927c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b66da5646ce7635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1405/Shahrivar/روزانه/1405-06-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1405-06-25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d1aa5d57cc951f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1547990ec637714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9455cf75c7ec0322",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "مرورگر پرونده"
+            }
+          },
+          {
+            "id": "d6124ee2a857a2e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "جست‌وجو"
+            }
+          },
+          {
+            "id": "cf832044094f4f5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "نشانک‌ها"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39433e285a2be523",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5f9654ec5e03007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "128da7afe5748d7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "پشت‌وندها"
+            }
+          },
+          {
+            "id": "92e5ece572c5fc06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "پیوندهای برون‌رو"
+            }
+          },
+          {
+            "id": "d211953d07c00f08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "برچسب‌ها"
+            }
+          },
+          {
+            "id": "4a74ebf28e724a49",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "همه‌ی ویژگی‌ها"
+            }
+          },
+          {
+            "id": "58d330e2d05a6faf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "خوش آمدید.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "نمای کلی"
+            }
+          },
+          {
+            "id": "96d9f41976fb165d",
+            "type": "leaf",
+            "state": {
+              "type": "persian-calendar",
+              "state": {},
+              "icon": "calendar-heart",
+              "title": "Persian Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.2999267578125
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:آغاز/پایان ضبط صوت": false,
+      "switcher:گشودن پرش سریع": false,
+      "graph:گشودن نمای نمودار": false,
+      "canvas:ساختن بوم نو": false,
+      "daily-notes:گشودن یادداشت امروز": false,
+      "templates:درج الگو": false,
+      "command-palette:گشودن فرمان‌دان": false,
+      "bases:ایجاد پایگاه جدید": false
+    }
+  },
+  "active": "4be2c0a6f90c6a39",
+  "lastOpenFiles": [
+    "1405/Shahrivar/روزانه/1405-06-25.md",
+    "1405/Shahrivar/هفته/1405-W26.md",
+    "1405/Shahrivar/روزانه/1405-06-21.md",
+    "1405/Shahrivar/روزانه/1405-06-22.md",
+    "1405/Shahrivar/روزانه/1405-06-23.md",
+    "1405/Shahrivar/روزانه/1405-06-24.md",
+    "1405/Shahrivar/روزانه/1405-06-26.md",
+    "1405/Shahrivar/روزانه/1405-06-27.md",
+    "1405/Shahrivar/روزانه",
+    "1405/Shahrivar/هفته",
+    "1405/Mordad/هفته/1405-W19.md",
+    "1405/Mordad/هفته",
+    "1405/Mordad",
+    "1405/Shahrivar/هفته 26/1405-W26.md",
+    "1405/Shahrivar/{{هفته}}/1405-W25.md",
+    "1405/Shahrivar/{{هفته}}",
+    "۲۰۲۶-۰۹-۱۳.md",
+    "1405/Shahrivar/روزانه/1405-06-22 Sunday.md",
+    "1405/Shahrivar/هفته 26",
+    "1405/Shahrivar/1405-W26.md",
+    "1405/Shahrivar/jWW/1405-06-22.md",
+    "1405/Shahrivar/jWW",
+    "1405/Shahrivar/WW/1405-06-01.md",
+    "1405/Shahrivar/jww/1405-W25.md",
+    "1405/Shahrivar/WW",
+    "1405/Shahrivar/jww",
+    "1405/Shahrivar/WKC/PW/1405-W25.md",
+    "1405/Shahrivar/WKC/1405-W26.md",
+    "1405/Shahrivar/WKC/PW",
+    "1405/Shahrivar/wPW/1405-W25.md",
+    "1405/Shahrivar/ww/gggg-Www/1405-W26.md",
+    "1405/Shahrivar/09/1405-W27.md",
+    "1405/Shahrivar/WW/1405-W26.md",
+    "1405/Shahrivar/Www/1405-W26.md",
+    "1405/Shahrivar/jWW/1405-W26.md",
+    "1405/Shahrivar/هفته ww/2026-Www/1405-W26.md"
+  ]
+}
