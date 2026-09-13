@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1405/Shahrivar/روزانه/1405-06-22.md",
+                "file": "1405/1-پروژه کلید هوشمند/رذان.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1405-06-22"
+              "title": "رذان"
             }
           }
         ]
@@ -220,10 +220,12 @@
   },
   "active": "3b66da5646ce7635",
   "lastOpenFiles": [
+    "بی‌نام.md",
+    "1405/1-پروژه کلید هوشمند/رذان.md",
+    "1405/Shahrivar/روزانه/1405-06-22.md",
     "1405/Shahrivar/روزانه/1405-06-25.md",
     "1405/Shahrivar/روزانه/1405-06-21.md",
     "1405/Shahrivar/هفته/1405-W26.md",
-    "1405/Shahrivar/روزانه/1405-06-22.md",
     "1405/Shahrivar/روزانه/1405-06-23.md",
     "1405/Shahrivar/روزانه/1405-06-24.md",
     "1405/Shahrivar/روزانه/1405-06-26.md",
@@ -253,8 +255,6 @@
     "1405/Shahrivar/ww/gggg-Www/1405-W26.md",
     "1405/Shahrivar/09/1405-W27.md",
     "1405/Shahrivar/WW/1405-W26.md",
-    "1405/Shahrivar/Www/1405-W26.md",
-    "1405/Shahrivar/jWW/1405-W26.md",
-    "1405/Shahrivar/هفته ww/2026-Www/1405-W26.md"
+    "1405/Shahrivar/Www/1405-W26.md"
   ]
 }
