@@ -27,7 +27,7 @@
   "monthlyNotesPath": "jYYYY/jMMMM",
   "seasonalNotesPath": "jYYYY/jQQQQ",
   "yearlyNotesPath": "jYYYY",
-  "dailyTemplatePath": "",
+  "dailyTemplatePath": "tamplate/روزانه.md",
   "weeklyTemplatePath": "",
   "monthlyTemplatePath": "",
   "seasonalTemplatePath": "",
