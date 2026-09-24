@@ -22,7 +22,7 @@
   "hijriBase": "iran",
   "showGeorgianDates": true,
   "showHijriDates": true,
-  "dailyNotesPath": "jYYYY/jMMMM/روزانه",
+  "dailyNotesPath": "jYYYY/jMMMM/روزانه/jYYYY-jMM-jDD",
   "weeklyNotesPath": "jYYYY/jMMMM/هفته",
   "monthlyNotesPath": "jYYYY/jMMMM",
   "seasonalNotesPath": "jYYYY/jQQQQ",
