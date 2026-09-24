@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1405/Shahrivar/روزانه/1405-06-29.md",
+                "file": "1405/Mehr/روزانه/1405-07-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1405-06-29"
+              "title": "1405-07-01"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "right": {
     "id": "39433e285a2be523",
@@ -199,12 +199,15 @@
       "bases:ایجاد پایگاه جدید": false
     }
   },
-  "active": "3b66da5646ce7635",
+  "active": "9455cf75c7ec0322",
   "lastOpenFiles": [
-    "tamplate/روزانه.md",
     "1405/Shahrivar/روزانه/1405-06-29.md",
-    "1405/Shahrivar/روزانه/1405-06-23.md",
+    "1405/Mehr/روزانه/1405-07-01.md",
+    "1405/Mehr/روزانه",
+    "1405/Mehr",
     "1405/Shahrivar/روزانه/1405-06-21.md",
+    "tamplate/روزانه.md",
+    "1405/Shahrivar/روزانه/1405-06-23.md",
     "1405/Shahrivar/روزانه/1405-06-24.md",
     "1405/Shahrivar/روزانه/1405-06-22.md",
     "1405/Shahrivar/روزانه/1405-06-27.md",
@@ -227,15 +230,12 @@
     "1405/Shahrivar/{{هفته}}",
     "۲۰۲۶-۰۹-۱۳.md",
     "1405/Shahrivar/روزانه/1405-06-22 Sunday.md",
-    "1405/Shahrivar/هفته 26",
     "1405/Shahrivar/1405-W26.md",
     "1405/Shahrivar/jWW/1405-06-22.md",
-    "1405/Shahrivar/jWW",
     "1405/Shahrivar/WW/1405-06-01.md",
     "1405/Shahrivar/jww/1405-W25.md",
     "1405/Shahrivar/WKC/PW/1405-W25.md",
     "1405/Shahrivar/WKC/1405-W26.md",
-    "1405/Shahrivar/wPW/1405-W25.md",
-    "1405/Shahrivar/ww/gggg-Www/1405-W26.md"
+    "1405/Shahrivar/wPW/1405-W25.md"
   ]
 }
