@@ -11,12 +11,14 @@
             "id": "3b66da5646ce7635",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "25-06-1405.m4a"
+                "file": "1405/Shahrivar/روزانه/1405-06-22/1405-06-22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-audio",
-              "title": "25-06-1405"
+              "icon": "lucide-file",
+              "title": "1405-06-22"
             }
           }
         ]
@@ -199,7 +201,21 @@
   },
   "active": "3b66da5646ce7635",
   "lastOpenFiles": [
+    "1405/Shahrivar/روزانه/1405-06-23/1405-06-23.md",
+    "1405/Shahrivar/روزانه/1405-06-23.md",
+    "1405/Shahrivar/روزانه/1405-06-29.md",
+    "1405/Shahrivar/روزانه/1405-06-22.md",
+    "1405/Shahrivar/روزانه/1405-06-31/1405-06-31.md",
+    "1405/Shahrivar/روزانه/1405-06-30/1405-06-30.md",
+    "1405/Shahrivar/روزانه/1405-06-29/1405-06-29.md",
+    "1405/Shahrivar/روزانه/1405-06-28/1405-06-28.md",
+    "1405/Shahrivar/روزانه/1405-06-27/1405-06-27.md",
+    "1405/Shahrivar/روزانه/1405-06-26/1405-06-26.md",
     "1405/Shahrivar/روزانه/1405-06-25/1405-06-25.md",
+    "1405/Shahrivar/روزانه/1405-06-26/26-06-1405.m4a",
+    "1405/Shahrivar/روزانه/1405-06-22/1405-06-22.md",
+    "1405/Shahrivar/روزانه/1405-06-21/1405-06-21.md",
+    "1405/Shahrivar/روزانه/1405-06-25/25-06-1405.m4a",
     "stitch_smart_touch_switch_controller.zip",
     "stitch_smart_touch_switch_controller (1).zip",
     "stitch_smart_touch_switch_controller (2).zip",
@@ -210,21 +226,7 @@
     "1405/Shahrivar/روزانه/1405-06-25/stitch_smart_touch_switch_controller (3).zip",
     "tamplate/روزانه.md",
     "1405/Shahrivar/روزانه/1405-06-24/1405-06-24.md",
-    "1405/Shahrivar/روزانه/1405-06-24/ei-person-detection-esp-arduino-1.0.1-image-data,-image,-transfer-learning-(images).zip",
-    "1405/Shahrivar/روزانه/1405-06-24/ei-person-detection-esp-arduino-1.0.2-image-data,-image,-transfer-learning-(images).zip",
-    "1405/Shahrivar/روزانه/1405-06-23/1405-06-23.md",
-    "1405/Shahrivar/روزانه/1405-06-22/1405-06-22.md",
-    "1405/Shahrivar/روزانه/1405-06-21/1405-06-21.md",
-    "1405/Shahrivar/روزانه/1405-06-28/1405-06-28.md",
-    "1405/Shahrivar/روزانه/1405-06-29/1405-06-29.md",
-    "1405/Shahrivar/روزانه/1405-06-30/1405-06-30.md",
-    "1405/Shahrivar/روزانه/1405-06-31/1405-06-31.md",
-    "1405/Shahrivar/روزانه/1405-06-27/1405-06-27.md",
-    "1405/Shahrivar/روزانه/1405-06-26/1405-06-26.md",
     "1405/Mehr/روزانه/1405-07-01.md",
-    "1405/Shahrivar/روزانه/1405-06-29.md",
-    "1405/Shahrivar/روزانه/1405-06-22.md",
-    "1405/Shahrivar/روزانه/1405-06-23.md",
     "1405/Shahrivar/روزانه/1405-06-24.md",
     "1405/1-پروژه کلید هوشمند/رذان.md",
     "بی‌نام.md",
